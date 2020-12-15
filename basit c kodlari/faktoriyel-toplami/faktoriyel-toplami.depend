@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608039421 source:d:\c projeleri\c kodlari\faktoriyel-toplami\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+

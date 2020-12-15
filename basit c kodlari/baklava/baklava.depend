@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608039060 source:d:\c projeleri\c kodlari\baklava\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
